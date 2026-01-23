@@ -106,5 +106,6 @@ The following charts were created to build the interactive dashboard:
 
 Author
 Name: Adeyemi Tomisin Precious
+
 Role: Data Analyst
 
